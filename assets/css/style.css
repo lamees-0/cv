@@ -1,0 +1,83 @@
+body {
+    background: linear-gradient(#a2d0de, #ebf8e1, #ffffff);
+}
+
+.logo {
+    color: #0034e1;
+}
+
+.my_info {
+    margin: 20px;
+
+}
+
+.my_info img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.my_info h3 {
+    color: #324cb3;
+}
+
+.my_info h5 {
+    color: #20a2cd;
+}
+
+.contact {
+    margin-top: 20px;
+}
+
+.contact h4 {
+    font-size: 18px;
+}
+
+.contact a:link,
+a:visited {
+    color: #000000;
+    text-decoration: none;
+}
+
+.contact a:link:active,
+a:visited:active {
+    color: #20a2cd;
+}
+
+.education_info,
+.courses_info,
+.projects_info,
+.experience_info {
+    margin: 40px;
+}
+
+.education_info h1,
+.courses_info h1,
+.projects_info h1,
+.experience_info h1 {
+    color: #20a2cd;
+    margin: 10px;
+}
+
+.projects_info {
+    margin: 40px;
+}
+
+.projects_info img {
+    width: 150px;
+    height: 150px;
+}
+
+.project {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.project a:link,
+a:visited {
+    color: #6c59ff;
+    text-decoration: none;
+    font-size: 18px;
+}
